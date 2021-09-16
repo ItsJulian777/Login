@@ -1,22 +1,21 @@
-* {
-    margin: 0;
-    padding: 0;
-    font-family: sans-serif;
-}
+
 
 body {
-    background: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
 }
 section{
     height: 70vh;
     margin-top: 50px;
+    background-color:rgb(255, 255, 255) ;
 }
 .menu {
     margin-top: 10px;
     padding: 10px;
     background-color: rgb(255, 255, 255);
 }
-
+.container{
+    background-color: rgb(255, 255, 255);
+}
 #button {
     display: flex;
     justify-content: center;
@@ -109,3 +108,4 @@ section{
     align-content: center;
     align-items: center;
 }
+
